@@ -1,0 +1,18 @@
+{
+  "cart": {
+    "checkout": "Do kasy",
+    "header": "Koszyk",
+    "itemsInCart": "produkty w koszyku",
+    "viewCart": "zobacz koszyk",
+    "orderSummary": "Podsumowanie zamówienia",
+    "orderTotal": "Całkowity koszt zamówienia",
+    "subtotal": "Suma częściowa",
+    "shippingEstimate": "Szacowana wysyłka",
+    "emptyCartLabel": "Twój koszyk jest pusty!",
+    "messages": {
+      "addedToCart": "{p} został dodany do koszyka."
+    },
+    "promotion": "promocja",
+    "digital": "cyfrowy"
+  }
+}

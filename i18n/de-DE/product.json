@@ -1,0 +1,48 @@
+{
+  "product": {
+    "addToCart": "In den Warenkorb",
+    "details": "Details",
+    "amount": "Menge",
+    "description": "Beschreibung",
+    "properties": "Eigenschaften",
+    "reviews": "Bewertungen",
+    "content": "Inhalt",
+    "choose": "Wähle eine",
+    "variantsFrom": "Varianten ab",
+    "previously": "zuvor",
+    "price": {
+      "label": "Preis",
+      "to": "Bis",
+      "from": "Ab"
+    },
+    "reviewsForm": {
+      "title": "Titel",
+      "review": "Ihre Bewertung",
+      "submit": "Einreichen",
+      "rating": "Ihre Bewertung"
+    },
+    "addReview": "Bewertung hinzufügen",
+    "noReviews": "Noch keine Bewertungen.",
+    "reviewNotAccepted": "Ihre Bewertung wurde noch nicht genehmigt",
+    "reviewFeedback": "Unser Feedback",
+    "messages": {
+      "addedToWishlist": "{p} wurde zur Wunschliste hinzugefügt.",
+      "removedFromWishlist": "{p} wurde aus der Wunschliste entfernt.",
+      "addedToCart": "{p} wurde dem Warenkorb hinzugefügt.",
+      "reviewAdded": "Vielen Dank für Ihre Bewertung"
+    },
+    "badges": {
+      "topseller": "Tipp"
+    },
+    "to": "Bis",
+    "from": "Ab",
+    "pricesIncl": "Preise inkl. MwSt. zzgl. Versandkosten",
+    "pricesExcl": "Preise exkl. MwSt. zzgl. Versandkosten",
+    "deliveryTime": "Lieferzeit",
+    "days": "tage",
+    "noAvailable": "Nicht verfügbar",
+    "productNumber": "Artikelnummer",
+    "addedToCart": "in den Warenkorb gelegt",
+    "qty": "Menge"
+  }
+}

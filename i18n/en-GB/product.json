@@ -1,0 +1,48 @@
+{
+  "product": {
+    "addToCart": "Add to cart",
+    "details": "Details",
+    "amount": "Amount",
+    "description": "Description",
+    "properties": "Properties",
+    "reviews": "Reviews",
+    "content": "Content",
+    "choose": "Choose a",
+    "variantsFrom": "variants from",
+    "previously": "previously",
+    "price": {
+      "label": "Price",
+      "to": "To",
+      "from": "From"
+    },
+    "reviewsForm": {
+      "title": "Title",
+      "review": "Your review",
+      "submit": "Submit",
+      "rating": "Your rating"
+    },
+    "addReview": "Add review",
+    "noReviews": "No reviews yet.",
+    "reviewNotAccepted": "Your review has not been approved yet",
+    "reviewFeedback": "Our feedback",
+    "messages": {
+      "addedToWishlist": "{p} has been added to wishlist.",
+      "removedFromWishlist": "{p} has been removed from wishlist.",
+      "addedToCart": "{p} has been added to cart.",
+      "reviewAdded": "Thank you for submitting your review"
+    },
+    "badges": {
+      "topseller": "Tip"
+    },
+    "to": "To",
+    "from": "From",
+    "pricesIncl": "Prices incl. VAT plus shipping costs",
+    "pricesExcl": "Prices excl. VAT plus shipping costs",
+    "deliveryTime": "Available, delivery time",
+    "days": "days",
+    "noAvailable": "No longer available",
+    "productNumber": "Product number",
+    "addedToCart": "has been added to cart.",
+    "qty": "Qty"
+  }
+}
